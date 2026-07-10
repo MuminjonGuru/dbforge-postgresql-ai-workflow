@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Devart (www.devart.com), SQL document design file -->
+<!-- Modifying this generated file will probably render it invalid -->
+<Document>
+  <Properties>
+    <Type>SQL Document Design</Type>
+    <DatabaseProvider>77a9b459-6f15-4675-8e18-cdd88f58e376</DatabaseProvider>
+    <ProviderVersion>2026.1.77.0</ProviderVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+  </Properties>
+  <Connection>
+    <ConnectionModel>
+      <PropertyValue Name="Database">77a9b459-6f15-4675-8e18-cdd88f58e376</PropertyValue>
+      <PropertyValue Name="Id">fd1524be-630f-46ee-aaf7-b207b82d9733</PropertyValue>
+      <PropertyValue Name="ConnectionString" xml:space="preserve">User Id=postgres_admin;Host=postgres.cpuicc6e4ab6.eu-north-1.rds.amazonaws.com;Port=5432;Database=saas_prod;Unicode=True;Connection Timeout=15;Integrated Security=False;SSLMode=Require;SSL TLS Protocol=1.2</PropertyValue>
+    </ConnectionModel>
+    <Database>saas_prod</Database>
+  </Connection>
+  <Views ShowAdditionalViews="False" IsLayoutActiveAttribute="True" MainViewAttribute="Code" MainViewScale="52">
+    <View Name="Design" Visible="False" />
+    <View Name="Code" Active="True" Visible="True">
+      <Data />
+    </View>
+    <View Name="Data" Visible="True" />
+    <View Name="Profiler" Visible="False" />
+    <View Name="PivotGrid" Visible="False" />
+  </Views>
+</Document>
